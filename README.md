@@ -20,7 +20,7 @@ python3.11 RO.py -bloquertrafic2
 ```
 python3.11 RO.py -congestionpath
 ```
-5)Le plus court chemin pour qu'un touriste puisse visiter l'ensemble des monuments incontourables de Paris 
+5)Le plus court chemin pour qu'un touriste puisse visiter l'ensemble des monuments incontournables de Paris 
 ```
 python3.11 RO.py -touriste
 ```
